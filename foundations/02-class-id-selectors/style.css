@@ -7,3 +7,7 @@ p {
     color: rgb(0, 25, 250);
     font-size: 36px;
 }
+
+.big {
+    font-size: 24px;
+}
