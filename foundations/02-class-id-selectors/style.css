@@ -1,4 +1,9 @@
 p {
     background-color: rgb(242, 50, 92);
-    font-family: "verdana", "DejaVu Sans", sans-serif;}
-    
+    font-family: "verdana", "DejaVu Sans", sans-serif;
+}
+
+#line2 {
+    color: rgb(0, 25, 250);
+    font-size: 36;
+}
