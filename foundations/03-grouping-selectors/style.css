@@ -1,4 +1,2 @@
-.left 
-.right 
-{font-style: Helvetica, "Times New Roman", Sans-Serif;
-}
+.left,
+.right {font-family: helvetica, "times new roman", sans-serif;}
