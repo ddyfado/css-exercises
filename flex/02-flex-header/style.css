@@ -21,17 +21,16 @@
   list-style-type: none;
   display: flex;
   gap: 1em;
+  max-width: 100%;
 }
 
-.left-links ul{
-  margin-left: -30px;
-  margin-top: 25px;
+.left-links ul {
+  margin: 0;
+  padding-inline-start: 0px;
 }
 
 .right-links{
-  margin-top: 12px;
-  margin-right: 10px;
-  max-width: 100%;
+  margin: 0;
 }
 
 a {
