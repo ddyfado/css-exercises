@@ -35,6 +35,7 @@ body {
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
+  flex-basis: 0;
 }
 
 button {
@@ -44,6 +45,8 @@ button {
   background: rebeccapurple;
   color: white;
   padding: 8px 24px;
+  max-width: 175px;
+  max-height: 40px;
 }
 
 a {
