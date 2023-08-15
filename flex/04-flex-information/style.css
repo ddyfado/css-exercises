@@ -16,7 +16,9 @@ img {
 .container {
   display: flex;
   margin-top: 32px;
-  justify-content: space-evenly;
+  gap: 52px;
+  justify-content: center;
+  
 }
 
 .chilli, .pepper, .saffron, .berry {
