@@ -24,6 +24,11 @@ body {
   height: 48px;
 }
 
+.links {
+  display: flex;
+  gap: 1em;
+}
+
 .logo {
   color: rebeccapurple;
   font-size: 32px;
@@ -32,6 +37,7 @@ body {
 }
 
 button {
+  margin-left: auto;
   border: none;
   border-radius: 8px;
   background: rebeccapurple;
