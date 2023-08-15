@@ -28,7 +28,7 @@ body {
 
 .links {
   display: flex;
-  gap: 1em;
+  gap: 16px;
 }
 
 .logo {
