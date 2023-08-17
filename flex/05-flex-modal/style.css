@@ -62,7 +62,7 @@ button.continue {
   background: royalblue;
   border: 1px solid royalblue;
   color: white;
-  margin-left: 50px;
+  margin-left: 58px;
 }
 
 button.cancel {
@@ -73,7 +73,7 @@ button.cancel {
 
 .top {
   display: flex;
-  gap: 8px;
+  gap: 16px;
   align-items: center;
 }
 
@@ -83,6 +83,6 @@ button.cancel {
 }
 
 .text {
-  margin-left: 50px;
+  margin-left: 58px;
   margin-bottom: 16px;
 }
