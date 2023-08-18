@@ -32,6 +32,7 @@ input {
 
 .header ul {
   display: flex;
+  gap: 16px;
 }
 
 .right-links {
