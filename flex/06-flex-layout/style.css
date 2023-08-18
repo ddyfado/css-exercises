@@ -34,7 +34,9 @@ input {
 .header ul {
   display: flex;
   gap: 16px;
-  
+  padding: 0px;
+  margin-left: 16px;
+  margin-right: 16px;
 }
 
 .right-links {
