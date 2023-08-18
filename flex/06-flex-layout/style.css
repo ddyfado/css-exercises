@@ -28,15 +28,17 @@ input {
 
 .header {
   display: flex;
+  justify-content: space-between;
 }
 
 .header ul {
   display: flex;
   gap: 16px;
+  
 }
 
 .right-links {
-  margin-left: auto;
+  
 }
 
 a {
