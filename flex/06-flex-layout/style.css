@@ -33,3 +33,16 @@ input {
 .header ul {
   display: flex;
 }
+
+.right-links {
+  margin-left: auto;
+}
+
+a {
+  text-decoration: none;
+  color: darkslategray;
+}
+
+ul { 
+  list-style-type: none;
+}
