@@ -35,12 +35,11 @@ body {
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
+  flex-shrink: 0;
 }
 
 .card-container {
-  display: flex;
-  gap: 16px;
-  justify-content: space-evenly;
+  
 }
 
 .card {
@@ -48,7 +47,4 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
   padding: 8px;
-  flex-grow: 0;
-  flex-shrink: 0;
-  flex-basis: 0;
 }
