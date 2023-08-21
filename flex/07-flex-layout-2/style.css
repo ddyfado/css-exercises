@@ -58,6 +58,8 @@ body {
 
 ul { 
   list-style-type: none;
+  padding: 16px;
+  margin: 0;
 }
 
 a {
