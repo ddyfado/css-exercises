@@ -39,9 +39,8 @@ body {
 
 .card-container {
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
+  gap: 16px;
+  justify-content: space-evenly;
 }
 
 .card {
@@ -49,4 +48,7 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
   padding: 8px;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: 0;
 }
