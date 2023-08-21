@@ -38,6 +38,7 @@ body {
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
+  font-size: 16pt;
 }
 
 .card-container {
